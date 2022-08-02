@@ -14,8 +14,8 @@ next_period = {
     'PM': 'AM'
 }
 
-def add_info(count):
-    """This function gives additional information on the result of the add_time function."""
+def add_info(count): 
+  """This function gives additional information on the result of the add_time function."""
   if count == 0:
     message = ''
   elif count == 1:
