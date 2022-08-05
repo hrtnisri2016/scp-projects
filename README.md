@@ -8,7 +8,7 @@ Primary school students often arrange math problems vertically to make them simp
 
 2. Time Calculator
 
-In this project, I need to create ```add_time``` function that takes in two required parameters and one optional parameter: a start time in the 12-hour clock format (ending in AM or PM); a duration time that indicates the number of hours and minutes; and a starting day of the week (optional), case insensitive. The function should add the duration time to the start time and return the result. You can read more about it [here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator).
+In this project, I need to create ```add_time``` function that takes in two required parameters and one optional parameter: a start time in the 12-hour clock format (ending in AM or PM); a duration time that indicates the number of hours and minutes; and a starting day of the week (optional), case insensitive. The function should add the duration time to the start time and return the result. You can read more about it [here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator) or run the code directly from [my replit](https://replit.com/@SriHartini4/boilerplate-time-calculator-done?v=1#time_calculator.py).
 
 
     (coming soon)
