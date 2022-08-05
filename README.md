@@ -4,7 +4,7 @@ There are five projects that must be completed in order to obtain the Scientific
 
 1. Arithmetic Formatter.
 
-Primary school students often arrange math problems vertically to make them simpler to solve. The goal of this project is to create a function that receives a list of strings representing arithmetic problems and returns the problems stacked vertically. The function should accept the second argument as an option. When the second argument is set to True, the responses should be displayed. You can read more about it [here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter).
+Primary school students often arrange math problems vertically to make them simpler to solve. The goal of this project is to create a function that receives a list of strings representing arithmetic problems and returns the problems stacked vertically. The function should accept the second argument as an option. When the second argument is set to True, the responses should be displayed. You can read more about it [here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter) or run the code directly from [my replit](https://replit.com/@SriHartini4/boilerplate-arithmetic-formatter-done?v=1#arithmetic_arranger.py).
 
 2. Time Calculator
 
