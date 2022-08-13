@@ -14,10 +14,11 @@ In this project, I need to create ```add_time``` function that takes in two requ
 
 In this project, I was asked to make a ```Category``` class that would be able to instantiate objects based on different budget categories like food, clothing, etc. It is supposed to have ```deposit``` and ```withdrawal``` method that accepts an amount and description to track the flow of money, ```get_balance``` method that returns the current balance of the budget category, ```transfer``` method that transfers an amount to another budget category, and a ```check_funds``` method to check whether the transaction can be made with the current balance in consideration. When the budget object is printed, it would display the name of the category, the transaction list, and the current balance. Besides the ```Category``` class, I was asked to create a function (outside of the class) called ```create_spend_chart``` that takes a list of categories as an argument and returns a string that is a bar chart. You can read more about it [here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app) or run the code directly from [my replit](https://replit.com/@SriHartini4/boilerplate-budget-app-done?v=1#main.py).
 
+4. Polygon Area Calculator
+
+In this project, I employ object-oriented programming to develop the classes ```Rectangle``` and ```Square```. I must ensure that the ```Square``` class in this project is a subclass of ```Rectangle``` and inherits its methods and attributes. You can read more about it [here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator) or run the code directly from [my replit](https://replit.com/@SriHartini4/boilerplate-polygon-area-calculator-done?v=1#shape_calculator.py).
 
     (coming soon)
-    
-    4. Polygon Area Calculator
-    
+       
     5. Probability Calculator
     
