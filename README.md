@@ -18,7 +18,6 @@ In this project, I was asked to make a ```Category``` class that would be able t
 
 In this project, I employ object-oriented programming to develop the classes ```Rectangle``` and ```Square```. I must ensure that the ```Square``` class in this project is a subclass of ```Rectangle``` and inherits its methods and attributes. You can read more about it [here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator) or run the code directly from [my replit](https://replit.com/@SriHartini4/boilerplate-polygon-area-calculator-done?v=1#shape_calculator.py).
 
-    (coming soon)
-       
-    5. Probability Calculator
-    
+5. Probability Calculator
+
+For this project, I write a program that will run a large number of experiments to estimate the probability of drawing specific balls at random from a hat. This program would provide an estimated probability for questions such as "Assume a hat contains 5 blue balls, 4 red balls, and 2 green balls. What is the likelihood that a random draw of four balls will include at least one red ball and two green balls?" You can read more about it [here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator) or run the code directly from [my replit](https://replit.com/@SriHartini4/boilerplate-probability-calculator-done?v=1).
